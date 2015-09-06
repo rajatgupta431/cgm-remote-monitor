@@ -1,4 +1,5 @@
 {
-    "url": null,
-    "collection": null
+ 
+  "url": "mongodb://t1parent:wearenotwaiting@kahana.mongohq.com:10093/jeanhaley",
+  "collection": "entries"
 }
