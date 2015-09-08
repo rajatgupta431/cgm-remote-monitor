@@ -1,5 +1,5 @@
 {
  
-  "url": "mongodb://t1parent:wearenotwaiting@kahana.mongohq.com:10020/nikkicgm",
+  "url": "mongodb://t1parent:wearenotwaiting@oceanic.mongohq.com:10037/annabellecgm",
   "collection": "entries"
 }
