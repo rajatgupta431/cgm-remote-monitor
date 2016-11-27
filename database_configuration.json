@@ -1,4 +1,4 @@
 {
-    "url": "mongodb://t1parent:wearenotwaiting@kahana.mongohq.com:10035/nicholascgm",
+    "url": "mongodb://t1parent:wearenotwaiting@candidate.51.mongolayer.com:11203,candidate.67.mongolayer.com:10687/nicholascgm?replicaSet=set-583a873c11e1218646000415",
     "collection": "cgm"
 }
