@@ -1,5 +1,5 @@
 {
  
-  "url": "mongodb://nikki:t1parent@candidate.45.mongolayer.com:11108,candidate.21.mongolayer.com:11545/nikkicgm?replicaSet=set-583b92c745884c552200005e",
+  "url": "mongodb://t1parent:wearenotwaiting@candidate.14.mongolayer.com:11314,candidate.21.mongolayer.com:11606/candyapp?replicaSet=set-583f014b8114cf4256000060",
   "collection": "cgm"
 }
