@@ -1,4 +1,4 @@
 {
-    "url": null,
-    "collection": null
+    "url": "mongodb://zunix:wearenotwaiting@candidate.51.mongolayer.com:11203,candidate.67.mongolayer.com:10687/zunixapp?replicaSet=set-583a873c11e1218646000415",
+    "collection": "cgm"
 }
