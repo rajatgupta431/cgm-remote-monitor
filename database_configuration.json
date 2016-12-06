@@ -1,5 +1,5 @@
 {
  
-  "url": "mongodb://candy:wearenotwaiting@candidate.14.mongolayer.com:11314,candidate.21.mongolayer.com:11606/candyapp?replicaSet=set-583f014b8114cf4256000060",
+  "url": "mongodb://zunix:wearenotwaiting@candidate.51.mongolayer.com:11203,candidate.67.mongolayer.com:10687/zunixapp?replicaSet=set-583a873c11e1218646000415",
   "collection": "cgm"
 }
