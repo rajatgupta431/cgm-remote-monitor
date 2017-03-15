@@ -1,5 +1,5 @@
 {
  
-  "url": "mongodb://t1parent:wearenotwaiting@ds043971.mlab.com:43971/yogya",
+  "url": "mongodb://t1parent:wearenotwaiting@ds117919.mlab.com:17919/nikkicgm",
   "collection": "cgm"
 }
