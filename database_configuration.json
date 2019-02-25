@@ -1,5 +1,5 @@
 {
  
-  "url": "mongodb://t1parent:wearenotwaiting@ds117919.mlab.com:17919/nikkicgm",
+  "url": "mongodb://wearenotwaiting:diabetes10@ds351455.mlab.com:51455/zunixapp",
   "collection": "cgm"
 }
